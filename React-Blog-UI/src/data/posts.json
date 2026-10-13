@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React",
+    "excerpt": "Learn how React components help you build reusable and interactive user interfaces.",
+    "category": "Web Development",
+    "author": "Shruti Gupta",
+    "date": "2026-10-10",
+    "image": "https://placehold.co/600x400?text=React"
+  },
+  {
+    "id": 2,
+    "title": "Understanding JavaScript",
+    "excerpt": "Explore variables, functions, arrays, and other important JavaScript concepts.",
+    "category": "Programming",
+    "author": "Aarav Sharma",
+    "date": "2026-10-08",
+    "image": "https://placehold.co/600x400?text=JavaScript"
+  },
+  {
+    "id": 3,
+    "title": "A Beginner's Guide to CSS",
+    "excerpt": "Discover how colors, spacing, layouts, and typography make websites beautiful.",
+    "category": "Web Development",
+    "author": "Priya Verma",
+    "date": "2026-10-06",
+    "image": "https://placehold.co/600x400?text=CSS"
+  },
+  {
+    "id": 4,
+    "title": "Python for Beginners",
+    "excerpt": "Start learning Python programming through simple examples and practical exercises.",
+    "category": "Programming",
+    "author": "Shruti Gupta",
+    "date": "2026-10-04",
+    "image": "https://placehold.co/600x400?text=Python"
+  },
+  {
+    "id": 5,
+    "title": "Introduction to Artificial Intelligence",
+    "excerpt": "Understand how artificial intelligence is used to solve real-world problems.",
+    "category": "Artificial Intelligence",
+    "author": "Rohan Mehta",
+    "date": "2026-10-02",
+    "image": "https://placehold.co/600x400?text=AI"
+  },
+  {
+    "id": 6,
+    "title": "Building Responsive Websites",
+    "excerpt": "Learn how CSS media queries help websites adapt to mobile, tablet, and desktop screens.",
+    "category": "Web Development",
+    "author": "Priya Verma",
+    "date": "2026-09-29",
+    "image": "https://placehold.co/600x400?text=Responsive+Design"
+  },
+  {
+    "id": 7,
+    "title": "Exploring Data Science",
+    "excerpt": "Discover how data analysis helps people find patterns and make better decisions.",
+    "category": "Data Science",
+    "author": "Aarav Sharma",
+    "date": "2026-09-26",
+    "image": "https://placehold.co/600x400?text=Data+Science"
+  },
+  {
+    "id": 8,
+    "title": "Machine Learning Basics",
+    "excerpt": "Learn how machine learning models identify patterns from data and make predictions.",
+    "category": "Artificial Intelligence",
+    "author": "Rohan Mehta",
+    "date": "2026-09-23",
+    "image": "https://placehold.co/600x400?text=Machine+Learning"
+  }
+]
